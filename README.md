@@ -4,6 +4,9 @@
   
 ![Joseh254 stat](https://github-readme-streak-stats.herokuapp.com/?user=Joseh254&theme=dark&hide_border=true)  
 
+![joseh254's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joseh254&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)  
+
+
 Welcome to my GitHub profile! I am a passionate and dedicated Full Stack Developer with a degree in Information Technology from Murang'a University of Technology. My journey in the tech world has been marked by continuous learning and a commitment to developing innovative solutions.
 
 ## About Me
