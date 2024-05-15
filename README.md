@@ -1,4 +1,4 @@
-# Hi there, I'm Joseph 👋
+# Hi there, I'm Joseph 
 
 Welcome to my GitHub profile! I am a passionate and dedicated Full Stack Developer with a degree in Information Technology from Murang'a University of Technology. My journey in the tech world has been marked by continuous learning and a commitment to developing innovative solutions.
 
