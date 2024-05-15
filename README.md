@@ -1,5 +1,9 @@
 # Hi there, I'm Joseph 
-![Joseh254 stat](https://github-readme-streak-stats.herokuapp.com/?user=Joseh254&theme=dark&hide_border=true)
+![Joseh254's Stats](https://github-readme-stats.vercel.app/api?username=Joseh254&theme=dark&show_icons=true&hide_border=true&count_private=false)  
+
+  
+![Joseh254 stat](https://github-readme-streak-stats.herokuapp.com/?user=Joseh254&theme=dark&hide_border=true)  
+
 Welcome to my GitHub profile! I am a passionate and dedicated Full Stack Developer with a degree in Information Technology from Murang'a University of Technology. My journey in the tech world has been marked by continuous learning and a commitment to developing innovative solutions.
 
 ## About Me
