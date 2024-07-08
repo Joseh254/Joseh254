@@ -1,4 +1,7 @@
 # Hi there, I'm Joseph  
+I have a strong background in web-development, machine learning, cloud-computing and Artificial Inteligence.  
+Becoming a software engineer means I'm a problem solver. problem solver is important to be because I will be able to tackle Complex problems daily.I will be able To   
+analyze issues,design solutions and implement them using code.
 Welcome to my GitHub profile! I am a passionate and dedicated Full Stack Developer with a degree in Information Technology from Murang'a University of Technology. My journey in the tech world has been marked by continuous learning and a commitment to developing innovative solutions.  
 
 
